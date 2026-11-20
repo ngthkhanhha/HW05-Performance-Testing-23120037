@@ -34,6 +34,7 @@ Không có lỗi SUT nào được xác nhận trong bốn JTL cuối. Lỗi 403
 - Phê bình AI 200–300 từ (người học đã sửa; AI đã rà độ dài và định dạng): [`audit/23120037_AI_Critique_20261120.md`](audit/23120037_AI_Critique_20261120.md)
 - Thông số phần cứng: [`evidence/hardware_specs.md`](evidence/hardware_specs.md)
 - Rà soát kế hoạch Task 1: [`reports/23120037_Task1_Review_Draft_20261120.md`](reports/23120037_Task1_Review_Draft_20261120.md)
+- Kịch bản video demo: [`reports/23120037_Demo_Video_Script_20261120.md`](reports/23120037_Demo_Video_Script_20261120.md)
 
 Kho SUT công khai gốc: https://github.com/ttbhanh/eshop-sut . Kho cá nhân chứa bài nộp: https://github.com/ngthkhanhha/HW05-Performance-Testing-23120037 . Nhánh `main` đã được cập nhật; nhật ký commit nằm trong [`audit/23120037_Git_Log_20261120.md`](audit/23120037_Git_Log_20261120.md).
 

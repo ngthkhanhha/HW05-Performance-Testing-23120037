@@ -53,7 +53,7 @@ Không có lỗi SUT nào được xác nhận trong bốn JTL cuối. Lỗi 403
 
 Kho SUT công khai gốc: https://github.com/ttbhanh/eshop-sut . Kho cá nhân chứa bài nộp: https://github.com/ngthkhanhha/HW05-Performance-Testing-23120037 . Nhánh `main` đã được cập nhật; nhật ký commit nằm trong [`audit/23120037_Git_Log_20261120.md`](audit/23120037_Git_Log_20261120.md).
 
-**Liên kết video demo YouTube không công khai:** Chưa có; để lại theo yêu cầu của người học.
+**Video demo YouTube:** [Xem video demo](https://youtu.be/8grxpZWpsOs) (liên kết do người học cung cấp).
 
 ## Bảng tự đánh giá
 
@@ -75,4 +75,4 @@ Bạn đã tự điền điểm cho từng mục; tổng điểm cộng lại l�
 2. Ảnh DxDiag và PowerShell đã lưu trong `evidence/`; hostname `DESKTOP-LIFKQ8N` khớp JMeter log. Bằng chứng hiện có xác nhận máy chạy kiểm thử; không khẳng định thay cho môi trường triển khai nếu môi trường đó khác.
 3. Kết quả đã xác nhận ổn định đến 15 người dùng; **chưa xác định ngưỡng tối đa**. Không chạy thêm bài tăng tải theo lựa chọn của người học.
 4. Các tệp bài nộp đã commit và push lên repo cá nhân; xem Git Log để biết hash commit.
-5. Còn video demo YouTube không công khai dài tối thiểu 6 phút. Sau khi có video, người học sẽ tự cập nhật liên kết, xuất PDF từ Markdown và tạo ZIP theo mẫu `{MSSV}_HW05_AI_Performance_{điểm 3 chữ số}.zip`.
+5. Đã có liên kết video demo YouTube do người học cung cấp. Người học cần tự kiểm tra video dài tối thiểu 6 phút và xem được qua liên kết; sau đó xuất PDF từ Markdown và tạo ZIP theo mẫu `{MSSV}_HW05_AI_Performance_{điểm 3 chữ số}.zip`.

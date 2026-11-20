@@ -1,0 +1,2 @@
+email,password,productId,productName,price,quantity,shipping_address
+test@eshop.com,Test1234!,1,iPhone 15 Pro Max,30000000,1,"123 Le Loi, TP.HCM"

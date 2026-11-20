@@ -1,0 +1,707 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1795171672253,2,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171672412,2,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171672466,2,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171672569,2,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171672714,2,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171672772,2,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171672814,2,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171672828,1,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,1
+1795171672944,2,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171672953,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171673122,2,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171673162,2,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171673187,2,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171673293,2,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,1
+1795171673306,3,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,3,0,1
+1795171673590,2,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171673608,2,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171673637,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171673897,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171673925,1,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171673976,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171674009,1,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171674097,1,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171674156,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171674176,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171674226,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171674227,0,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,0,0,0
+1795171674613,1,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171674623,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171674657,2,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171674684,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171674875,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171674898,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171675037,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171675082,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675130,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675148,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675264,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675325,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675357,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675417,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675692,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675893,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171675940,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171675958,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171675999,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171676062,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171676146,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171676378,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171676402,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171676424,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171676434,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171676459,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171676478,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171676530,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171676792,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171677076,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171677159,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171677160,11,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,11,0,0
+1795171677256,1,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171677261,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171677317,2,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171677368,2,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171677498,1,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171677503,1,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171677634,1,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171677648,1,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171677672,1,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171677861,2,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171677932,2,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171677964,2,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171678405,1,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171678480,2,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171678481,2,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171678516,2,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171678566,2,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171678702,1,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171678741,1,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171678821,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171678842,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171678963,2,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171678988,2,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171678993,1,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171679067,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171679311,1,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171679422,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171679454,2,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171679568,1,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171679621,1,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171679714,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171679879,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171680006,2,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171680083,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171680208,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171680263,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171680291,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171680318,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171680413,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171680416,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171680470,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171680477,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171680632,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171680646,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171680882,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171681091,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171681156,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171681206,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171681269,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171681304,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171681365,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171681508,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171681518,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171681588,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171681627,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171681752,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171681879,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171681939,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171681973,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171682201,3,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,3,0,0
+1795171682239,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171682293,1,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171682318,1,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171682421,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171682484,1,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171682612,1,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171682719,2,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171682883,2,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171682887,1,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171682903,2,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171682960,1,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171683063,1,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171683075,2,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171683251,2,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171683450,1,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171683499,1,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171683527,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171683601,1,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171683691,2,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171683711,2,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171683767,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171683900,2,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171684164,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171684172,3,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,3,0,0
+1795171684177,2,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171684196,2,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171684315,2,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171684459,3,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,3,0,0
+1795171684553,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171684678,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171684771,1,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171684773,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171684845,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171685018,1,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171685019,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171685085,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171685200,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171685294,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171685332,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171685395,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171685472,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171685598,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171685708,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171685803,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171685897,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171686005,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171686067,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171686067,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171686177,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171686207,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171686253,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171686362,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171686378,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171686440,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171686487,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171686612,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171686843,2,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171686859,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171686859,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171687154,1,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171687263,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171687325,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171687388,2,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171687419,1,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171687419,1,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171687591,2,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171687606,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171687700,2,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171687731,1,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171687778,2,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171687950,2,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171687981,1,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171688059,3,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,3,0,0
+1795171688137,2,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171688355,1,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171688402,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171688433,2,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171688465,2,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171688481,2,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171688747,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171688762,1,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171688824,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171689026,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171689041,2,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171689179,2,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171689179,3,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,3,0,0
+1795171689243,0,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,0,0,0
+1795171689259,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171689337,1,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171689431,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171689570,1,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171689617,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171689632,2,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171689790,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171689837,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171690053,1,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171690084,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171690093,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171690197,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171690302,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171690354,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171690512,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171690534,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171690628,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171690707,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171690731,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171690792,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171690957,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171691003,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171691013,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171691124,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171691364,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171691383,3,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,3,0,0
+1795171691475,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171691632,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171691688,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171691817,1,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171691974,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171691974,9,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,9,0,0
+1795171691991,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171692023,2,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171692161,2,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171692180,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171692273,1,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171692403,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171692409,1,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171692547,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171692740,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171692824,1,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171692845,1,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171692860,2,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171693080,1,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171693159,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171693174,1,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171693237,1,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171693252,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171693252,1,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171693692,1,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171693722,1,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171693738,2,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171693816,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171693862,2,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171693893,2,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171693987,2,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171694143,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171694175,1,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171694284,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171694456,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171694487,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171694487,2,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171694518,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171694722,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171694768,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171694910,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171694941,1,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171695128,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171695223,1,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171695253,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171695285,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171695458,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171695582,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171695644,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171695674,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171695674,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171695689,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171695783,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171695893,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171696032,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171696142,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171696157,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171696282,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171696408,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171696657,3,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171696688,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171696735,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171696797,2,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171696797,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171696845,1,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171696924,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171697015,2,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171697047,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171697078,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171697108,1,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171697232,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171697294,1,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171697654,1,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171697670,2,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171697762,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171697824,1,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171697917,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171697948,2,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171697995,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171698074,2,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171698090,1,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171698137,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171698229,2,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171698245,1,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171698402,1,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171698575,2,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171698686,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171698702,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171699095,1,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171699095,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171699142,1,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171699157,1,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171699173,1,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171699204,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171699374,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171699435,2,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171699482,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171699592,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171699639,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171699733,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171699779,2,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171699980,2,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171700119,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171700134,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171700213,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171700385,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171700432,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171700495,1,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171700510,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171700510,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171700525,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171700602,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171700663,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171700678,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171700820,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171700958,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171701162,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171701382,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171701444,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171701475,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171701570,1,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171701586,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171701617,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171701726,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171701789,1,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171701804,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171701804,2,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171701819,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171701975,1,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171702178,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171702429,1,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171702552,2,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171702568,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171702631,1,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171702724,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171702756,1,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171702864,2,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171702943,2,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171702990,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171703085,1,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171703085,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171703163,2,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171703240,2,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171703288,1,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171703381,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171703740,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171703803,2,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171703898,2,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171703913,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171704006,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171704022,1,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171704054,1,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171704100,1,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171704208,1,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171704270,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171704286,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171704536,1,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171704629,1,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171704660,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171704708,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171704786,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171704817,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171704942,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171705098,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171705130,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171705284,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171705316,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171705442,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171705535,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171705629,1,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171705692,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171705723,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171705786,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171705894,2,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171705940,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171706066,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171706082,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171706206,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171706253,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171706551,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171706567,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171706661,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171706723,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171706738,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171706878,2,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171706940,2,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171706956,2,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171706956,3,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,3,0,0
+1795171707144,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171707160,3,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,3,0,0
+1795171707379,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171707474,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171707505,2,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171707568,2,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171707751,4,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,3,0,0
+1795171707907,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171707970,2,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171707986,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171707986,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171708002,1,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171708159,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171708283,1,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171708329,1,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171708392,1,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171708501,2,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171708531,2,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171708751,1,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171708859,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171708890,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171709047,3,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,3,0,0
+1795171709108,1,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171709170,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171709263,1,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171709310,1,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171709387,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171709574,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171709590,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171709621,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171709744,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171709899,2,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171709899,2,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171710008,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171710164,1,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171710227,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171710227,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171710335,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171710523,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171710523,2,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171710697,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171710762,2,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171710873,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171710999,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171711014,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171711091,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171711154,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171711185,3,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,3,0,0
+1795171711310,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171711358,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171711374,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171711578,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171711608,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171711671,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171711828,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171711968,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171712138,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171712138,8,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,8,0,0
+1795171712262,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171712277,2,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171712340,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171712403,2,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171712435,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171712513,1,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171712621,3,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,3,0,0
+1795171712636,2,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171712807,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171712838,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171712948,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171713119,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171713369,2,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171713369,3,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,3,0,0
+1795171713384,1,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171713478,2,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171713493,2,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171713540,1,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171713665,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171713681,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171713758,1,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171713867,2,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171713883,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171714072,2,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171714103,2,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171714181,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171714181,8,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,8,0,0
+1795171714493,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171714619,1,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171714651,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171714697,2,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171714713,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171714852,2,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171714868,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171714915,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171714977,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171714977,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171715227,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171715258,1,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171715304,2,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171715351,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171715570,1,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171715726,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171715834,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171715850,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171715881,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171715913,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171716053,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171716116,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171716177,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171716177,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171716412,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171716535,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171716599,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171716662,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171716708,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171716739,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171716928,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171717006,2,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171717022,10,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,10,0,0
+1795171717037,2,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171717083,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171717301,2,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171717550,2,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171717582,1,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171717597,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171717612,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171717877,2,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171717923,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171717923,10,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,10,0,0
+1795171717985,2,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171718016,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171718139,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171718170,1,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171718233,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171718249,1,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171718530,2,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171718593,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171718593,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171718703,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171718719,1,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171718846,1,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171718939,1,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171719205,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171719251,2,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171719283,1,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171719360,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171719454,2,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171719485,1,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171719564,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171719673,2,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171719736,1,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171719861,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171719969,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171720000,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171720032,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171720172,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171720344,1,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171720392,1,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171720439,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171720486,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171720549,1,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171720612,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171720643,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171720720,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171720954,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171720985,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171721046,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171721141,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171721281,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171721328,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171721390,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171721421,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171721671,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171721750,1,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171721797,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171721858,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171721874,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171721967,2,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171721983,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171722091,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171722216,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171722247,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171722435,1,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171722451,1,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171722451,1,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171722780,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171722812,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171722952,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171723000,2,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171723064,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171723080,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171723080,7,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,7,0,0
+1795171723236,1,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171723267,2,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171723313,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171723453,1,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171723453,1,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171723670,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171723780,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171723936,1,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171723968,1,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171724125,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171724171,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171724217,1,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171724264,1,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171724342,2,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171724529,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171724653,1,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171724715,1,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171724743,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171724746,1,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171724825,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171724827,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171724902,2,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171725075,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171725284,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171725290,2,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171725404,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171725429,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171725474,1,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171725583,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171725763,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171725793,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171725920,0,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,15,15,http://localhost:3000/api/cart,0,0,0
+1795171725995,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171726058,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171726116,1,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171726155,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171726195,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171726299,2,Login,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171726321,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171726568,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171726636,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171726725,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,314,416,15,15,http://localhost:3000/api/checkout,8,0,0
+1795171726794,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,314,416,15,15,http://localhost:3000/api/checkout,5,0,0
+1795171726883,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171726882,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171727183,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171727204,1,Login,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171727246,2,Login,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171727261,2,Login,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171727320,6,Checkout,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,314,416,15,15,http://localhost:3000/api/checkout,6,0,0
+1795171727346,1,Product List,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171727356,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171727409,4,Checkout,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,314,416,15,15,http://localhost:3000/api/checkout,4,0,0
+1795171727494,1,Login,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171727729,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,294,422,15,15,http://localhost:3000/api/cart,2,0,0
+1795171727823,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171727881,2,Login,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171728036,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171728100,2,Login,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171728185,2,Login,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171728262,1,Product List,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171728274,9,Checkout,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,314,416,15,15,http://localhost:3000/api/checkout,9,0,0
+1795171728392,1,Login,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171728404,1,Product List,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171728628,1,Product List,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171728692,1,Login,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171728793,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171728842,7,Checkout,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,314,416,15,15,http://localhost:3000/api/checkout,7,0,0
+1795171728899,1,Login,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171728973,2,Product List,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171729065,1,Product List,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171729317,1,Login,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171729337,2,Login,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171729372,1,Login,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,635,240,15,15,http://localhost:3000/api/login,1,0,0
+1795171729378,1,Product List,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171729612,1,Product List,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171729642,2,Product List,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,1238,129,15,15,http://localhost:3000/api/products,2,0,0
+1795171729661,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171729696,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,294,422,15,15,http://localhost:3000/api/cart,1,0,0
+1795171730038,2,Login,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,635,240,15,15,http://localhost:3000/api/login,2,0,0
+1795171730040,1,Product List,200,OK,Spike - EShop Purchase Flow 1-14,text,true,,1238,129,15,15,http://localhost:3000/api/products,1,0,0
+1795171730043,5,Checkout,200,OK,Spike - EShop Purchase Flow 1-6,text,true,,314,416,14,14,http://localhost:3000/api/checkout,5,0,0
+1795171730086,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-5,text,true,,294,422,13,13,http://localhost:3000/api/cart,2,0,0
+1795171730126,2,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-1,text,true,,294,422,12,12,http://localhost:3000/api/cart,2,0,0
+1795171730162,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-12,text,true,,294,422,11,11,http://localhost:3000/api/cart,1,0,0
+1795171730355,2,Product List,200,OK,Spike - EShop Purchase Flow 1-15,text,true,,1238,129,10,10,http://localhost:3000/api/products,2,0,0
+1795171730385,1,Product List,200,OK,Spike - EShop Purchase Flow 1-4,text,true,,1238,129,9,9,http://localhost:3000/api/products,1,0,0
+1795171730406,1,Product List,200,OK,Spike - EShop Purchase Flow 1-7,text,true,,1238,129,8,8,http://localhost:3000/api/products,1,0,0
+1795171730485,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-8,text,true,,294,422,7,7,http://localhost:3000/api/cart,1,0,0
+1795171730628,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-11,text,true,,294,422,6,6,http://localhost:3000/api/cart,0,0,0
+1795171730763,1,Product List,200,OK,Spike - EShop Purchase Flow 1-9,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
+1795171730953,8,Checkout,200,OK,Spike - EShop Purchase Flow 1-10,text,true,,314,416,4,4,http://localhost:3000/api/checkout,8,0,0
+1795171730975,3,Checkout,200,OK,Spike - EShop Purchase Flow 1-3,text,true,,314,416,3,3,http://localhost:3000/api/checkout,3,0,0
+1795171731053,1,Add to Cart,200,OK,Spike - EShop Purchase Flow 1-13,text,true,,294,422,2,2,http://localhost:3000/api/cart,1,0,0
+1795171731077,1,Product List,200,OK,Spike - EShop Purchase Flow 1-2,text,true,,1238,129,1,1,http://localhost:3000/api/products,1,0,0

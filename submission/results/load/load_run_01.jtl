@@ -1,425 +1,425 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1795170164072,4,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,1,1,http://localhost:3000/api/login,4,0,1
-1795170165178,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,1,1,http://localhost:3000/api/products,2,0,0
-1795170166527,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,1,1,http://localhost:3000/api/cart,1,0,0
-1795170167970,29,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,312,416,1,1,http://localhost:3000/api/checkout,29,0,0
-1795170169152,3,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,2,2,http://localhost:3000/api/login,3,0,0
-1795170170225,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,2,2,http://localhost:3000/api/login,2,0,1
-1795170170440,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,2,2,http://localhost:3000/api/products,2,0,0
-1795170171504,3,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,2,2,http://localhost:3000/api/products,2,0,0
-1795170171650,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,2,2,http://localhost:3000/api/cart,2,0,0
-1795170172887,8,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,312,416,2,2,http://localhost:3000/api/checkout,7,0,0
-1795170172926,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,2,2,http://localhost:3000/api/cart,2,0,0
-1795170174138,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,2,2,http://localhost:3000/api/login,2,0,0
-1795170174428,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,312,416,2,2,http://localhost:3000/api/checkout,7,0,0
-1795170175580,3,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,3,3,http://localhost:3000/api/products,3,0,0
-1795170175776,3,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,3,3,http://localhost:3000/api/login,3,0,0
-1795170175799,4,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,3,3,http://localhost:3000/api/login,4,0,2
-1795170176783,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,3,3,http://localhost:3000/api/cart,2,0,0
-1795170176937,1,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,3,3,http://localhost:3000/api/products,1,0,0
-1795170177274,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,3,3,http://localhost:3000/api/products,2,0,0
-1795170177974,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,3,3,http://localhost:3000/api/cart,1,0,0
-1795170178233,9,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,312,416,3,3,http://localhost:3000/api/checkout,9,0,0
-1795170178588,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,3,3,http://localhost:3000/api/cart,1,0,0
-1795170179454,8,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,312,416,3,3,http://localhost:3000/api/checkout,8,0,0
-1795170179474,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,3,3,http://localhost:3000/api/login,2,0,0
-1795170179917,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,312,416,3,3,http://localhost:3000/api/checkout,7,0,0
-1795170180593,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,3,3,http://localhost:3000/api/products,2,0,0
-1795170180703,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,3,3,http://localhost:3000/api/login,2,0,0
-1795170181037,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,4,4,http://localhost:3000/api/login,2,0,0
-1795170181864,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,4,4,http://localhost:3000/api/cart,1,0,0
-1795170182056,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,4,4,http://localhost:3000/api/products,2,0,0
-1795170182060,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,4,4,http://localhost:3000/api/products,2,0,0
-1795170182094,3,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,4,4,http://localhost:3000/api/login,3,0,1
-1795170183225,8,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,312,416,4,4,http://localhost:3000/api/checkout,8,0,0
-1795170183366,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,4,4,http://localhost:3000/api/products,2,0,0
-1795170183444,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,4,4,http://localhost:3000/api/cart,2,0,0
-1795170183445,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,4,4,http://localhost:3000/api/cart,1,0,0
-1795170184587,7,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,312,416,4,4,http://localhost:3000/api/checkout,7,0,0
-1795170184638,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,4,4,http://localhost:3000/api/login,2,0,0
-1795170184823,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,4,4,http://localhost:3000/api/checkout,7,0,0
-1795170184853,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,4,4,http://localhost:3000/api/cart,2,0,0
-1795170185708,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,4,4,http://localhost:3000/api/products,1,0,0
-1795170185863,1,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,4,4,http://localhost:3000/api/login,1,0,0
-1795170185911,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,4,4,http://localhost:3000/api/login,2,0,0
-1795170186205,4,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,4,4,http://localhost:3000/api/checkout,4,0,0
-1795170187126,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170187343,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170187375,1,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170187593,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170187935,3,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,3,0,2
-1795170188511,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170188511,8,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170188729,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170189025,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170189025,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170189568,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170189911,8,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170190084,8,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170190316,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170190489,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170190832,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170191113,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170191363,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170191518,7,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170191878,7,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170192265,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170192548,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170192659,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170192675,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170193095,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170193329,9,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,9,0,0
-1795170193771,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170193848,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170193910,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170194564,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170194564,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170194862,5,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170194972,5,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170195235,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170195608,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170195875,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170196016,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170196262,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170196402,6,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170196684,5,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170197136,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170197153,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170197561,1,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170197891,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170197891,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170198315,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170198622,6,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170198943,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170199035,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170199391,1,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170199516,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170200044,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170200201,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170200249,6,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170200591,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170200732,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170201090,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170201309,6,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170201419,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170201837,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170201914,8,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170202266,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170202513,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170202743,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170203008,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170203211,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170203698,8,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170203714,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170203902,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170204354,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170204354,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170204856,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170204933,5,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170205042,1,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170205760,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170205760,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170205947,7,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170206242,1,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170206350,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170206845,6,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170206939,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170207154,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170207591,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170207653,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170207996,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170208278,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170208324,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170208619,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170208869,6,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170209446,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170209492,1,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170209662,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170209954,6,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170210219,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170210730,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170210884,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170211026,1,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170211119,7,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170211382,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170211961,5,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170212007,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170212441,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170212489,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170212660,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170213281,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170213374,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170213559,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170213793,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170214025,6,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170214336,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170214552,6,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170214973,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170215003,7,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170215427,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170215629,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170215644,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170216297,5,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170216360,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170216824,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170216872,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170216995,5,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,4,0,0
-1795170217614,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170217739,1,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170217879,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170218111,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170218220,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170218953,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170219092,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170219123,6,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170219138,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170219608,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170220187,3,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,3,0,0
-1795170220203,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170220218,7,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170220611,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170220734,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170221299,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170221378,9,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,9,0,0
-1795170221565,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170221768,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170221990,7,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170222428,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170222883,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170222898,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170222977,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170223024,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170223571,5,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,4,0,0
-1795170224151,9,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,9,0,2
-1795170224290,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170224415,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170224493,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170224712,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170225303,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170225567,3,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,3,0,0
-1795170225661,7,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170225724,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170225817,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170226633,6,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170226968,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170226999,3,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,3,0,0
-1795170227024,8,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170227048,4,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,3,0,0
-1795170228125,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170228133,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170228187,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170228296,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170228450,6,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170229280,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170229326,1,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170229430,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170229562,7,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170229890,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170230313,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170230590,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170230645,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170230811,4,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,4,0,0
-1795170231034,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,1
-1795170231479,7,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170231768,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170231990,5,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170232042,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170232252,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170232490,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170232931,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170233300,8,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170233418,1,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170233426,1,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170233721,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170234023,7,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170234548,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170234581,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170234779,1,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170235147,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170235207,1,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170235812,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170235922,8,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,1
-1795170235936,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170236276,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170236588,9,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,9,0,0
-1795170237045,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170237094,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170237182,7,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170237649,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170237684,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170238464,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170238470,1,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170238524,6,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170238680,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170239130,5,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170239782,3,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170239829,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170239909,1,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170240049,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170240388,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170241040,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170241056,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170241103,6,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170241227,6,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170241820,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170242228,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170242335,8,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170242383,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170242461,3,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,3,0,1
-1795170242866,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170243397,1,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170243584,1,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170243821,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170243868,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170244243,5,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170244712,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170244899,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170244993,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170245227,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170245539,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170245839,8,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170246075,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170246075,6,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170246538,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170247022,3,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,3,0,0
-1795170247022,3,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,3,0,0
-1795170247179,1,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170247443,6,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170247813,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170248109,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170248329,1,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170248470,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,1
-1795170248625,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170249126,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170249613,8,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170249629,0,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,0,0,0
-1795170249785,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170249816,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170250271,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170250693,9,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,9,0,0
-1795170250785,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170250909,8,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170251157,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170251751,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170251922,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170252079,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170252218,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170252328,5,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170253138,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170253199,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170253327,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170253328,1,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170253653,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170254344,8,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170254621,9,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,9,0,0
-1795170254636,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170254727,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170254933,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170255669,1,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170255710,8,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170255740,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170256133,7,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170256308,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170256774,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170256833,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170256921,1,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170257352,6,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170257368,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170257946,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170258228,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170258243,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170258683,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170258699,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170259027,5,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170259672,8,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170259735,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170259952,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170259999,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170260125,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170260888,5,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170260904,1,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170261153,8,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,8,0,0
-1795170261497,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170261513,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170262260,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170262369,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170262508,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170262911,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170262911,5,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170263428,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170263521,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170263787,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170264348,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170264364,1,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170264551,7,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170264723,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170265207,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170265502,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170265547,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170265846,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170265909,7,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170266331,7,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170266675,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170266845,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170267159,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170267298,2,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170267704,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170267829,5,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,5,0,0
-1795170267892,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170268292,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170268492,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170268878,2,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170269109,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170269234,7,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170269789,6,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170269990,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170270209,1,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170270364,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170270739,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170270833,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170271455,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170271455,7,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,313,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170271565,6,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170272157,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170272187,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170272780,6,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170272954,1,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170272999,2,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170273359,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170273391,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170273814,2,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170274265,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170274313,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170274422,9,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,313,416,5,5,http://localhost:3000/api/checkout,9,0,0
-1795170274750,6,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,313,416,5,5,http://localhost:3000/api/checkout,6,0,0
-1795170274859,2,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170275592,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170275623,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170275684,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170275857,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170275919,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170276827,9,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,313,416,5,5,http://localhost:3000/api/checkout,9,0,0
-1795170277092,2,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170277092,7,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,314,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170277123,4,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,314,416,5,5,http://localhost:3000/api/checkout,4,0,0
-1795170277201,2,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170278154,1,Login,200,OK,Load - EShop Purchase Flow 1-4,text,true,,635,240,5,5,http://localhost:3000/api/login,1,0,0
-1795170278216,4,Login,200,OK,Load - EShop Purchase Flow 1-5,text,true,,635,240,5,5,http://localhost:3000/api/login,4,0,0
-1795170278216,4,Login,200,OK,Load - EShop Purchase Flow 1-3,text,true,,635,240,5,5,http://localhost:3000/api/login,4,0,0
-1795170278232,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-1,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170278310,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-2,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170279388,2,Product List,200,OK,Load - EShop Purchase Flow 1-3,text,true,,1238,129,5,5,http://localhost:3000/api/products,2,0,0
-1795170279466,1,Product List,200,OK,Load - EShop Purchase Flow 1-4,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170279481,1,Product List,200,OK,Load - EShop Purchase Flow 1-5,text,true,,1238,129,5,5,http://localhost:3000/api/products,1,0,0
-1795170279621,7,Checkout,200,OK,Load - EShop Purchase Flow 1-1,text,true,,314,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170279621,9,Checkout,200,OK,Load - EShop Purchase Flow 1-2,text,true,,314,416,5,5,http://localhost:3000/api/checkout,9,0,0
-1795170280530,1,Add to Cart,200,OK,Load - EShop Purchase Flow 1-5,text,true,,294,422,5,5,http://localhost:3000/api/cart,1,0,0
-1795170280837,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-3,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170280852,2,Add to Cart,200,OK,Load - EShop Purchase Flow 1-4,text,true,,294,422,5,5,http://localhost:3000/api/cart,2,0,0
-1795170281009,2,Login,200,OK,Load - EShop Purchase Flow 1-1,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170281072,2,Login,200,OK,Load - EShop Purchase Flow 1-2,text,true,,635,240,5,5,http://localhost:3000/api/login,2,0,0
-1795170281828,7,Checkout,200,OK,Load - EShop Purchase Flow 1-5,text,true,,314,416,5,5,http://localhost:3000/api/checkout,7,0,0
-1795170282190,7,Checkout,200,OK,Load - EShop Purchase Flow 1-3,text,true,,314,416,4,4,http://localhost:3000/api/checkout,7,0,0
-1795170282201,1,Product List,200,OK,Load - EShop Purchase Flow 1-1,text,true,,1238,129,3,3,http://localhost:3000/api/products,1,0,0
-1795170282323,5,Checkout,200,OK,Load - EShop Purchase Flow 1-4,text,true,,314,416,2,2,http://localhost:3000/api/checkout,5,0,0
-1795170282373,1,Product List,200,OK,Load - EShop Purchase Flow 1-2,text,true,,1238,129,1,1,http://localhost:3000/api/products,1,0,0
+﻿"timeStamp","elapsed","label","responseCode","responseMessage","threadName","dataType","success","failureMessage","bytes","sentBytes","grpThreads","allThreads","URL","Latency","IdleTime","Connect"
+"1795170164072","4","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","1","1","http://localhost:3000/api/login","4","0","1"
+"1795170165178","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","1","1","http://localhost:3000/api/products","2","0","0"
+"1795170166527","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","1","1","http://localhost:3000/api/cart","1","0","0"
+"1795170167970","29","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","312","416","1","1","http://localhost:3000/api/checkout","29","0","0"
+"1795170169152","3","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","2","2","http://localhost:3000/api/login","3","0","0"
+"1795170170225","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","2","2","http://localhost:3000/api/login","2","0","1"
+"1795170170440","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","2","2","http://localhost:3000/api/products","2","0","0"
+"1795170171504","3","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","2","2","http://localhost:3000/api/products","2","0","0"
+"1795170171650","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","2","2","http://localhost:3000/api/cart","2","0","0"
+"1795170172887","8","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","312","416","2","2","http://localhost:3000/api/checkout","7","0","0"
+"1795170172926","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","2","2","http://localhost:3000/api/cart","2","0","0"
+"1795170174138","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","2","2","http://localhost:3000/api/login","2","0","0"
+"1795170174428","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","312","416","2","2","http://localhost:3000/api/checkout","7","0","0"
+"1795170175580","3","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","3","3","http://localhost:3000/api/products","3","0","0"
+"1795170175776","3","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","3","3","http://localhost:3000/api/login","3","0","0"
+"1795170175799","4","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","3","3","http://localhost:3000/api/login","4","0","2"
+"1795170176783","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","3","3","http://localhost:3000/api/cart","2","0","0"
+"1795170176937","1","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","3","3","http://localhost:3000/api/products","1","0","0"
+"1795170177274","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","3","3","http://localhost:3000/api/products","2","0","0"
+"1795170177974","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","3","3","http://localhost:3000/api/cart","1","0","0"
+"1795170178233","9","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","312","416","3","3","http://localhost:3000/api/checkout","9","0","0"
+"1795170178588","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","3","3","http://localhost:3000/api/cart","1","0","0"
+"1795170179454","8","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","312","416","3","3","http://localhost:3000/api/checkout","8","0","0"
+"1795170179474","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","3","3","http://localhost:3000/api/login","2","0","0"
+"1795170179917","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","312","416","3","3","http://localhost:3000/api/checkout","7","0","0"
+"1795170180593","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","3","3","http://localhost:3000/api/products","2","0","0"
+"1795170180703","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","3","3","http://localhost:3000/api/login","2","0","0"
+"1795170181037","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","4","4","http://localhost:3000/api/login","2","0","0"
+"1795170181864","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","4","4","http://localhost:3000/api/cart","1","0","0"
+"1795170182056","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","4","4","http://localhost:3000/api/products","2","0","0"
+"1795170182060","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","4","4","http://localhost:3000/api/products","2","0","0"
+"1795170182094","3","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","4","4","http://localhost:3000/api/login","3","0","1"
+"1795170183225","8","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","312","416","4","4","http://localhost:3000/api/checkout","8","0","0"
+"1795170183366","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","4","4","http://localhost:3000/api/products","2","0","0"
+"1795170183444","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","4","4","http://localhost:3000/api/cart","2","0","0"
+"1795170183445","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","4","4","http://localhost:3000/api/cart","1","0","0"
+"1795170184587","7","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","312","416","4","4","http://localhost:3000/api/checkout","7","0","0"
+"1795170184638","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","4","4","http://localhost:3000/api/login","2","0","0"
+"1795170184823","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","4","4","http://localhost:3000/api/checkout","7","0","0"
+"1795170184853","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","4","4","http://localhost:3000/api/cart","2","0","0"
+"1795170185708","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","4","4","http://localhost:3000/api/products","1","0","0"
+"1795170185863","1","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","4","4","http://localhost:3000/api/login","1","0","0"
+"1795170185911","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","4","4","http://localhost:3000/api/login","2","0","0"
+"1795170186205","4","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","4","4","http://localhost:3000/api/checkout","4","0","0"
+"1795170187126","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170187343","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170187375","1","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170187593","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170187935","3","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","3","0","2"
+"1795170188511","8","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170188511","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170188729","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170189025","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170189025","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170189568","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170189911","8","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170190084","8","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170190316","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170190489","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170190832","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170191113","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170191363","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170191518","7","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170191878","7","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170192265","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170192548","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170192659","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170192675","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170193095","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170193329","9","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","9","0","0"
+"1795170193771","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170193848","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170193910","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170194564","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170194564","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170194862","5","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170194972","5","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170195235","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170195608","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170195875","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170196016","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170196262","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170196402","6","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170196684","5","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170197136","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170197153","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170197561","1","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170197891","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170197891","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170198315","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170198622","6","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170198943","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170199035","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170199391","1","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170199516","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170200044","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170200201","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170200249","6","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170200591","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170200732","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170201090","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170201309","6","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170201419","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170201837","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170201914","8","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170202266","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170202513","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170202743","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170203008","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170203211","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170203698","8","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170203714","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170203902","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170204354","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170204354","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170204856","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170204933","5","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170205042","1","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170205760","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170205760","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170205947","7","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170206242","1","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170206350","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170206845","6","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170206939","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170207154","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170207591","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170207653","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170207996","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170208278","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170208324","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170208619","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170208869","6","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170209446","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170209492","1","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170209662","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170209954","6","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170210219","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170210730","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170210884","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170211026","1","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170211119","7","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170211382","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170211961","5","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170212007","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170212441","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170212489","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170212660","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170213281","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170213374","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170213559","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170213793","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170214025","6","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170214336","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170214552","6","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170214973","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170215003","7","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170215427","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170215629","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170215644","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170216297","5","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170216360","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170216824","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170216872","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170216995","5","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","4","0","0"
+"1795170217614","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170217739","1","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170217879","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170218111","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170218220","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170218953","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170219092","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170219123","6","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170219138","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170219608","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170220187","3","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","3","0","0"
+"1795170220203","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170220218","7","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170220611","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170220734","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170221299","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170221378","9","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","9","0","0"
+"1795170221565","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170221768","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170221990","7","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170222428","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170222883","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170222898","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170222977","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170223024","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170223571","5","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","4","0","0"
+"1795170224151","9","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","9","0","2"
+"1795170224290","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170224415","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170224493","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170224712","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170225303","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170225567","3","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","3","0","0"
+"1795170225661","7","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170225724","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170225817","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170226633","6","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170226968","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170226999","3","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","3","0","0"
+"1795170227024","8","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170227048","4","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","3","0","0"
+"1795170228125","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170228133","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170228187","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170228296","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170228450","6","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170229280","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170229326","1","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170229430","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170229562","7","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170229890","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170230313","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170230590","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170230645","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170230811","4","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","4","0","0"
+"1795170231034","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","1"
+"1795170231479","7","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170231768","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170231990","5","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170232042","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170232252","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170232490","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170232931","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170233300","8","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170233418","1","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170233426","1","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170233721","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170234023","7","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170234548","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170234581","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170234779","1","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170235147","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170235207","1","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170235812","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170235922","8","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","1"
+"1795170235936","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170236276","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170236588","9","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","9","0","0"
+"1795170237045","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170237094","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170237182","7","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170237649","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170237684","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170238464","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170238470","1","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170238524","6","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170238680","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170239130","5","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170239782","3","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170239829","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170239909","1","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170240049","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170240388","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170241040","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170241056","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170241103","6","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170241227","6","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170241820","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170242228","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170242335","8","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170242383","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170242461","3","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","3","0","1"
+"1795170242866","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170243397","1","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170243584","1","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170243821","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170243868","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170244243","5","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170244712","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170244899","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170244993","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170245227","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170245539","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170245839","8","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170246075","6","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170246075","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170246538","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170247022","3","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","3","0","0"
+"1795170247022","3","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","3","0","0"
+"1795170247179","1","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170247443","6","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170247813","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170248109","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170248329","1","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170248470","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","1"
+"1795170248625","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170249126","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170249613","8","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170249629","0","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","0","0","0"
+"1795170249785","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170249816","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170250271","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170250693","9","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","9","0","0"
+"1795170250785","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170250909","8","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170251157","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170251751","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170251922","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170252079","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170252218","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170252328","5","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170253138","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170253199","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170253327","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170253328","1","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170253653","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170254344","8","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170254621","9","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","9","0","0"
+"1795170254636","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170254727","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170254933","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170255669","1","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170255710","8","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170255740","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170256133","7","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170256308","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170256774","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170256833","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170256921","1","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170257352","6","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170257368","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170257946","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170258228","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170258243","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170258683","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170258699","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170259027","5","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170259672","8","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170259735","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170259952","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170259999","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170260125","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170260888","5","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170260904","1","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170261153","8","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","8","0","0"
+"1795170261497","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170261513","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170262260","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170262369","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170262508","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170262911","5","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170262911","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170263428","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170263521","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170263787","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170264348","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170264364","1","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170264551","7","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170264723","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170265207","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170265502","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170265547","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170265846","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170265909","7","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170266331","7","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170266675","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170266845","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170267159","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170267298","2","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170267704","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170267829","5","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","5","0","0"
+"1795170267892","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170268292","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170268492","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170268878","2","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170269109","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170269234","7","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170269789","6","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170269990","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170270209","1","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170270364","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170270739","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170270833","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170271455","7","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","313","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170271455","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170271565","6","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170272157","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170272187","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170272780","6","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170272954","1","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170272999","2","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170273359","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170273391","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170273814","2","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170274265","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170274313","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170274422","9","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","313","416","5","5","http://localhost:3000/api/checkout","9","0","0"
+"1795170274750","6","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","313","416","5","5","http://localhost:3000/api/checkout","6","0","0"
+"1795170274859","2","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170275592","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170275623","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170275684","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170275857","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170275919","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170276827","9","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","313","416","5","5","http://localhost:3000/api/checkout","9","0","0"
+"1795170277092","7","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","314","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170277092","2","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170277123","4","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","314","416","5","5","http://localhost:3000/api/checkout","4","0","0"
+"1795170277201","2","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170278154","1","Login","200","OK","Load - EShop Purchase Flow 1-4","text","true","","635","240","5","5","http://localhost:3000/api/login","1","0","0"
+"1795170278216","4","Login","200","OK","Load - EShop Purchase Flow 1-3","text","true","","635","240","5","5","http://localhost:3000/api/login","4","0","0"
+"1795170278216","4","Login","200","OK","Load - EShop Purchase Flow 1-5","text","true","","635","240","5","5","http://localhost:3000/api/login","4","0","0"
+"1795170278232","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-1","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170278310","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-2","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170279388","2","Product List","200","OK","Load - EShop Purchase Flow 1-3","text","true","","1238","129","5","5","http://localhost:3000/api/products","2","0","0"
+"1795170279466","1","Product List","200","OK","Load - EShop Purchase Flow 1-4","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170279481","1","Product List","200","OK","Load - EShop Purchase Flow 1-5","text","true","","1238","129","5","5","http://localhost:3000/api/products","1","0","0"
+"1795170279621","9","Checkout","200","OK","Load - EShop Purchase Flow 1-2","text","true","","314","416","5","5","http://localhost:3000/api/checkout","9","0","0"
+"1795170279621","7","Checkout","200","OK","Load - EShop Purchase Flow 1-1","text","true","","314","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170280530","1","Add to Cart","200","OK","Load - EShop Purchase Flow 1-5","text","true","","294","422","5","5","http://localhost:3000/api/cart","1","0","0"
+"1795170280837","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-3","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170280852","2","Add to Cart","200","OK","Load - EShop Purchase Flow 1-4","text","true","","294","422","5","5","http://localhost:3000/api/cart","2","0","0"
+"1795170281009","2","Login","200","OK","Load - EShop Purchase Flow 1-1","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170281072","2","Login","200","OK","Load - EShop Purchase Flow 1-2","text","true","","635","240","5","5","http://localhost:3000/api/login","2","0","0"
+"1795170281828","7","Checkout","200","OK","Load - EShop Purchase Flow 1-5","text","true","","314","416","5","5","http://localhost:3000/api/checkout","7","0","0"
+"1795170282190","7","Checkout","200","OK","Load - EShop Purchase Flow 1-3","text","true","","314","416","4","4","http://localhost:3000/api/checkout","7","0","0"
+"1795170282201","1","Product List","200","OK","Load - EShop Purchase Flow 1-1","text","true","","1238","129","3","3","http://localhost:3000/api/products","1","0","0"
+"1795170282323","5","Checkout","200","OK","Load - EShop Purchase Flow 1-4","text","true","","314","416","2","2","http://localhost:3000/api/checkout","5","0","0"
+"1795170282373","1","Product List","200","OK","Load - EShop Purchase Flow 1-2","text","true","","1238","129","1","1","http://localhost:3000/api/products","1","0","0"

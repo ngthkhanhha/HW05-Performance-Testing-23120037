@@ -7,6 +7,8 @@
 
 ## Tóm tắt kết quả
 
+Bảng dưới là các lần chạy ban đầu (`run_01`), dùng làm kết quả chính trong báo cáo. Các lần chạy lại để quay video được lưu riêng thành `run_02` ở phần bên dưới.
+
 | Kịch bản | Tải cấu hình | Thời lượng | Mẫu JTL | Lỗi JTL | Thông lượng ghi nhận | Bằng chứng |
 |---|---:|---:|---:|---:|---:|---|
 | Load | 5 người dùng, ramp-up 30 giây | 120 giây | 424 | 0 | 3,58 yêu cầu/giây | `plans/23120037_Load_20261120.jmx`, `results/load/`, `evidence/load_run_01.png` |
@@ -15,6 +17,19 @@
 | Endurance | 5 người dùng, ramp-up 30 giây | 600 giây | 2.336 | 0 | 3,90 yêu cầu/giây | `plans/23120037_Endurance_20261120.jmx`, `results/endurance/`, `evidence/endurance_run_01.png` |
 
 Cả bốn kế hoạch đo cùng luồng Login → Product List → Add to Cart → Checkout, tương ứng các nhóm API xác thực, đọc và giao dịch. Dữ liệu nằm trong `data/purchase_data.csv`. Ba kịch bản chính dùng ba loại listener riêng: Summary Report, Aggregate Report và Graph Results.
+
+## Lần chạy lại để quay video
+
+Ngày 21 tháng 11 năm 2026, tôi chạy lại bốn kế hoạch để trình diễn kết quả trong video. Các JTL lần chạy này được tách riêng; số liệu `run_01` và ảnh bằng chứng ban đầu vẫn được giữ nguyên. Không lưu thêm ảnh chụp cho các lần chạy lại.
+
+| Kịch bản | JTL lần chạy lại | Mẫu | Lỗi | Trung bình | p95 | Tối đa | Thông lượng |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Load | `results/load/load_run_02.jtl` | 426 | 0 | 2,74 ms | 8 ms | 11 ms | 3,59 yêu cầu/giây |
+| Stress | `results/stress/stress_run_02.jtl` | 1.259 | 0 | 2,89 ms | 8 ms | 40 ms | 10,62 yêu cầu/giây |
+| Spike | `results/spike/spike_run_02.jtl` | 706 | 0 | 2,60 ms | 7 ms | 12 ms | 12,02 yêu cầu/giây |
+| Endurance | `results/endurance/endurance_run_02.jtl` | 2.346 | 0 | 2,73 ms | 8 ms | 12 ms | 3,92 yêu cầu/giây |
+
+Đây là kết quả của các lần chạy lại để demo, không thay thế mốc `run_01` trong phân tích ban đầu. Cả bốn JTL `run_02` ghi 0 lỗi và HTTP 200 cho các mẫu được ghi nhận. Ảnh bằng chứng đang có là ảnh chụp của các lần chạy trước.
 
 ## Mốc Endurance quan sát được
 

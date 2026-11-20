@@ -84,6 +84,19 @@ Thời lượng quan sát từ lúc mẫu đầu tiên bắt đầu đến khi m
 
 Tất cả phản hồi được ghi nhận thành công và có mã HTTP 200. Checkout luôn có độ trễ trung bình cao hơn ba yêu cầu còn lại, với mức trung bình 6,14–7,01 ms giữa các lần chạy. Phản hồi đơn lẻ cao nhất là mẫu Checkout 29 ms trong Load; mức cao này không lặp lại ở p95 của các kịch bản khác.
 
+### Lần chạy lại để quay video
+
+Ngày 21 tháng 11 năm 2026, tôi chạy lại các kế hoạch để trình diễn trong video. Các JTL lần chạy lại được tách riêng thành `run_02`; bảng kết quả và ảnh bằng chứng ban đầu vẫn được giữ nguyên và tiếp tục đại diện cho `run_01`. Không lưu thêm ảnh chụp cho `run_02`.
+
+| Kịch bản | Mẫu | Lỗi | Trung bình | p95 | Tối đa | Thời lượng quan sát | Thông lượng |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Load (`load_run_02.jtl`) | 426 | 0 (0%) | 2,737 ms | 8 ms | 11 ms | 118,645 giây | 3,5905 yêu cầu/giây |
+| Stress (`stress_run_02.jtl`) | 1.259 | 0 (0%) | 2,891 ms | 8 ms | 40 ms | 118,496 giây | 10,6248 yêu cầu/giây |
+| Spike (`spike_run_02.jtl`) | 706 | 0 (0%) | 2,601 ms | 7 ms | 12 ms | 58,742 giây | 12,0187 yêu cầu/giây |
+| Endurance (`endurance_run_02.jtl`) | 2.346 | 0 (0%) | 2,733 ms | 8 ms | 12 ms | 598,411 giây | 3,9204 yêu cầu/giây |
+
+Đây là các lần chạy riêng để quay video, không thay thế kết quả `run_01` được dùng trong phân tích chính. Số mẫu khác nhẹ giữa các lượt do mỗi lần chạy kết thúc theo cửa sổ thời gian và thời điểm hoàn tất sampler. Stress `run_02` có mẫu tối đa 40 ms; đây là giá trị lớn nhất trong lượt chạy lại này, không phải ngưỡng tải hoặc kết luận về bão hòa.
+
 ## 6. Quan sát từ công cụ giám sát tài nguyên
 
 Ảnh Task Manager đã lưu cho thấy các số liệu toàn hệ thống tại từng thời điểm:

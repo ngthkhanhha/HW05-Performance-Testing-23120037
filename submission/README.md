@@ -3,7 +3,7 @@
 **Mã số sinh viên:** 23120037  
 **SUT:** EShop REST API, Node.js/Express và SQLite  
 **Công cụ:** Apache JMeter 5.6.3, OpenJDK 17.0.21, Task Manager  
-**Bản báo cáo:** Markdown để người học chốt trước khi tự xuất PDF.
+**Bản báo cáo:** Markdown; người học sẽ tự chuyển sang PDF và đóng gói ZIP sau khi chốt video demo.
 
 ## Tóm tắt kết quả
 
@@ -29,13 +29,13 @@ Không có lỗi SUT nào được xác nhận trong bốn JTL cuối. Lỗi 403
 - Báo cáo chính: [`reports/23120037_Performance_Test_Report_20261120.md`](reports/23120037_Performance_Test_Report_20261120.md)
 - Phân tích Task 2: [`reports/23120037_AI_Analysis_Task2_20261120.md`](reports/23120037_AI_Analysis_Task2_20261120.md)
 - Đề xuất Task 3: [`reports/23120037_Task3_Continuous_Performance_20261120.md`](reports/23120037_Task3_Continuous_Performance_20261120.md)
-- Skill dùng lại: [gói Agent Skill](23120037_eshop-performance-testing.skill.zip); bản giải nén và script phân tích cũng có trong workspace tại `C:\HW5\submission\skills\eshop-performance-testing\`.
+- Skill dùng lại: [gói Agent Skill](23120037_eshop-performance-testing.skill.zip); mã nguồn skill và script phân tích JTL nằm trong gói ZIP.
 - Kiểm toán AI: [`audit/23120037_AI_Audit_Report_20261120.md`](audit/23120037_AI_Audit_Report_20261120.md)
-- Phê bình AI 200–300 từ (bản nháp cần người học xác nhận): [`audit/23120037_AI_Critique_20261120.md`](audit/23120037_AI_Critique_20261120.md)
+- Phê bình AI 200–300 từ (người học đã sửa; AI đã rà độ dài và định dạng): [`audit/23120037_AI_Critique_20261120.md`](audit/23120037_AI_Critique_20261120.md)
 - Thông số phần cứng: [`evidence/hardware_specs.md`](evidence/hardware_specs.md)
 - Rà soát kế hoạch Task 1: [`reports/23120037_Task1_Review_Draft_20261120.md`](reports/23120037_Task1_Review_Draft_20261120.md)
 
-Kho SUT công khai gốc: https://github.com/ttbhanh/eshop-sut . Đây là kho nguồn của ứng dụng, chưa phải kho cá nhân chứa các tệp bài nộp. Bản bài nộp hiện nằm trong workspace cục bộ; chưa đẩy lên kho công khai.
+Kho SUT công khai gốc: https://github.com/ttbhanh/eshop-sut . Kho cá nhân chứa bài nộp: https://github.com/ngthkhanhha/HW05-Performance-Testing-23120037 . Nhánh `main` đã được cập nhật; nhật ký commit nằm trong [`audit/23120037_Git_Log_20261120.md`](audit/23120037_Git_Log_20261120.md).
 
 **Liên kết video demo YouTube không công khai:** Chưa có; để lại theo yêu cầu của người học.
 
@@ -53,10 +53,10 @@ Kho SUT công khai gốc: https://github.com/ttbhanh/eshop-sut . Đây là kho n
 
 Bạn đã tự điền điểm cho từng mục; tổng điểm cộng lại là 100. Tên ZIP cuối cần dùng điểm ba chữ số `100` theo đề bài.
 
-## Các mục người học cần chốt
+## Trạng thái bàn giao
 
-1. Đã hoàn tất rà soát Task 1 và Task 2. Bài phê bình AI 200–300 từ do người học sửa, AI đã kiểm tra độ dài và định dạng.
-2. Đã lưu ảnh DxDiag và PowerShell vào `submission/evidence/`; hostname `DESKTOP-LIFKQ8N` khớp JMeter log. Nếu bài triển khai trước dùng máy/VM khác, bổ sung bằng chứng hostname từ môi trường đó.
-3. Không chạy thêm bài tăng tải. Kết luận trong báo cáo giới hạn ở mức cao nhất đã kiểm thử ổn định là 15 người dùng; ngưỡng tối đa chưa xác định.
-4. Tự xuất PDF sau khi chốt nội dung, thêm liên kết video demo YouTube không công khai dài tối thiểu 6 phút, rồi tạo ZIP theo mẫu tên ở đề bài.
-5. Tạo các commit theo từng bước và cập nhật nhật ký Git; hiện các tệp `submission/` chưa được commit. Không đẩy lên kho nguồn công khai vì đó không phải kho cá nhân của người học.
+1. Nội dung Task 1–3, báo cáo chính, bản rà soát của người học, kiểm toán AI và phê bình AI đã có ở định dạng Markdown. Bài phê bình AI do người học sửa; AI đã kiểm tra độ dài/định dạng.
+2. Ảnh DxDiag và PowerShell đã lưu trong `evidence/`; hostname `DESKTOP-LIFKQ8N` khớp JMeter log. Bằng chứng hiện có xác nhận máy chạy kiểm thử; không khẳng định thay cho môi trường triển khai nếu môi trường đó khác.
+3. Kết quả đã xác nhận ổn định đến 15 người dùng; **chưa xác định ngưỡng tối đa**. Không chạy thêm bài tăng tải theo lựa chọn của người học.
+4. Các tệp bài nộp đã commit và push lên repo cá nhân; xem Git Log để biết hash commit.
+5. Còn video demo YouTube không công khai dài tối thiểu 6 phút. Sau khi có video, người học sẽ tự cập nhật liên kết, xuất PDF từ Markdown và tạo ZIP theo mẫu `{MSSV}_HW05_AI_Performance_{điểm 3 chữ số}.zip`.
